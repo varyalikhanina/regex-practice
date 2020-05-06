@@ -1,2 +1,9 @@
-# varyalikhanina.github.io
-regEx practice
+# Regular Expressions Practice v.0.0.1 varyalikhanina.github.io
+
+На этой странице осуществлена валидация полей с помощью регулярных выражений.
+
+Задача выполнена мной в рамках учебы в Яндекс.Практикум.
+
+## Используемые технологии
+
+HTML, CSS, GIT
