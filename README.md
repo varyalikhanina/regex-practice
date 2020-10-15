@@ -9,4 +9,4 @@
 HTML, CSS, GIT
 
 ### [Проект на GH-pages][1]
-[1]: https://varyalikhanina.github.io
+[1]: https://varyalikhanina.github.io/regex-practice
